@@ -1,0 +1,7 @@
+#Accept first name middle name and surname from user (use three input())
+name = input("Enter your First name: ")
+print(name + "!")
+name = input("Enter your Middle name: ")
+print( name + "!")
+name = input("Enter your  Surname: ")
+print( name + "!")
